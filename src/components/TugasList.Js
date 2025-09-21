@@ -20,4 +20,4 @@ function TugasList() {
       ))}
     </div>
   );
-}
+}commit -m "Perbaiki tampilan daftar tugas"
